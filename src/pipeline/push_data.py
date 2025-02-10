@@ -15,9 +15,9 @@ uri=os.getenv("MONGO_URI")
 import pandas as pd
 import numpy as np
 
-file_path=pd.read_csv("Dataep\phisingData.csv")
 
-class DataExctraction():
+class DataExtraction():
+
     def __init__(self):
         try:
             pass
@@ -37,10 +37,21 @@ class DataExctraction():
         try:
             self.database=database
             self.collection=collection
-            self.records=records
+            self.records=recordsx
             self.mongo_client=pymongo.MongoClient(uri)
             self.database=self.mongo_client[self.database]
             self.collection=self.database[self.collection]
-            self.collections.insert_many(self.records)
+            self.collection.insert_many(self.records)
         except Exception as e:
             raise DSException(e,sys)
+        
+if __name__ =="__main__":
+    file_path="Dataep\phisingData.csv"
+    database="DeveshMlops"
+    collection="PhisingData"
+    obj=DataExtraction()
+    records=obj.cv_to_json_converter(file_path)
+    obj.insert_data_on_mongo(records,database,collection)
+
+
+    
