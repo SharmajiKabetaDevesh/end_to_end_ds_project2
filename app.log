@@ -1,0 +1,68 @@
+2025-02-09 16:21:07,326 - Creating directory: .github\workflows
+2025-02-09 16:21:07,328 - Creating empty file: .github\workflows\.gitkeep
+2025-02-09 16:21:07,328 - Creating directory: src\datascience
+2025-02-09 16:21:07,329 - Creating empty file: src\datascience\__init__.py
+2025-02-09 16:21:07,329 - Creating directory: src\datascience\components
+2025-02-09 16:21:07,329 - Creating empty file: src\datascience\components\__init__.py
+2025-02-09 16:21:07,330 - Creating directory: src\datascience\utils
+2025-02-09 16:21:07,330 - Creating empty file: src\datascience\utils\__init__.py
+2025-02-09 16:21:07,331 - Creating directory: src\datascience\utils
+2025-02-09 16:21:07,331 - Creating empty file: src\datascience\utils\common.py
+2025-02-09 16:21:07,331 - Creating directory: src\datascience\config
+2025-02-09 16:21:07,332 - Creating empty file: src\datascience\config\__init__.py
+2025-02-09 16:21:07,332 - Creating directory: src\datascience\config
+2025-02-09 16:21:07,333 - Creating empty file: src\datascience\config\config.py
+2025-02-09 16:21:07,333 - Creating directory: src\datascience\pipeline
+2025-02-09 16:21:07,333 - Creating empty file: src\datascience\pipeline\__init__.py
+2025-02-09 16:21:07,334 - Creating directory: src\datascience\entity
+2025-02-09 16:21:07,334 - Creating empty file: src\datascience\entity\__init__.py
+2025-02-09 16:21:07,334 - Creating directory: src\datascience\entity
+2025-02-09 16:21:07,334 - Creating empty file: src\datascience\entity\config_entity.py
+2025-02-09 16:21:07,335 - Creating directory: src\datascience\constants
+2025-02-09 16:21:07,335 - Creating empty file: src\datascience\constants\__init__.py
+2025-02-09 16:21:07,336 - Creating directory: config
+2025-02-09 16:21:07,336 - Creating empty file: config\config.yaml
+2025-02-09 16:21:07,336 - Creating empty file: params.yaml
+2025-02-09 16:21:07,337 - Creating empty file: schema.yaml
+2025-02-09 16:21:07,337 - Creating empty file: main.py
+2025-02-09 16:21:07,338 - Creating empty file: Dockerfile
+2025-02-09 16:21:07,338 - Creating empty file: requirements.txt
+2025-02-09 16:21:07,338 - Creating empty file: setup.py
+2025-02-09 16:21:07,339 - Creating directory: research
+2025-02-09 16:21:07,339 - Creating empty file: research\research.ipynb
+2025-02-09 16:21:07,339 - Creating directory: templates
+2025-02-09 16:21:07,340 - Creating empty file: templates\index.html
+2025-02-09 16:34:40,875 - Creating directory: .github\workflows
+2025-02-09 16:34:40,893 - Creating empty file: .github\workflows\.gitkeep
+2025-02-09 16:34:40,893 - Creating directory: src\datascience
+2025-02-09 16:34:40,893 - Creating empty file: src\datascience\__init__.py
+2025-02-09 16:34:40,893 - Creating directory: src\datascience\components
+2025-02-09 16:34:40,894 - Creating empty file: src\datascience\components\__init__.py
+2025-02-09 16:34:40,894 - Creating directory: src\datascience\utils
+2025-02-09 16:34:40,894 - Creating empty file: src\datascience\utils\__init__.py
+2025-02-09 16:34:40,895 - Creating directory: src\datascience\utils
+2025-02-09 16:34:40,895 - Creating empty file: src\datascience\utils\common.py
+2025-02-09 16:34:40,895 - Creating directory: src\datascience\config
+2025-02-09 16:34:40,896 - Creating empty file: src\datascience\config\__init__.py
+2025-02-09 16:34:40,896 - Creating directory: src\datascience\config
+2025-02-09 16:34:40,897 - Creating empty file: src\datascience\config\config.py
+2025-02-09 16:34:40,897 - Creating directory: src\datascience\pipeline
+2025-02-09 16:34:40,897 - Creating empty file: src\datascience\pipeline\__init__.py
+2025-02-09 16:34:40,898 - Creating directory: src\datascience\entity
+2025-02-09 16:34:40,898 - Creating empty file: src\datascience\entity\__init__.py
+2025-02-09 16:34:40,898 - Creating directory: src\datascience\entity
+2025-02-09 16:34:40,899 - Creating empty file: src\datascience\entity\config_entity.py
+2025-02-09 16:34:40,899 - Creating directory: src\datascience\constants
+2025-02-09 16:34:40,899 - Creating empty file: src\datascience\constants\__init__.py
+2025-02-09 16:34:40,899 - Creating directory: config
+2025-02-09 16:34:40,923 - Creating empty file: config\config.yaml
+2025-02-09 16:34:40,924 - Creating empty file: params.yaml
+2025-02-09 16:34:40,924 - Creating empty file: schema.yaml
+2025-02-09 16:34:40,925 - Creating empty file: main.py
+2025-02-09 16:34:40,925 - Creating empty file: Dockerfile
+2025-02-09 16:34:40,925 - requirements.txt already exists
+2025-02-09 16:34:40,926 - Creating empty file: setup.py
+2025-02-09 16:34:40,926 - Creating directory: research
+2025-02-09 16:34:40,926 - Creating empty file: research\research.ipynb
+2025-02-09 16:34:40,926 - Creating directory: templates
+2025-02-09 16:34:40,927 - Creating empty file: templates\index.html
