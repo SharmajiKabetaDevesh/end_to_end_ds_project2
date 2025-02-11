@@ -1,0 +1,3 @@
+[2025-02-11 11:36:23,504] 11 root - INFO - Logging started
+[2025-02-11 11:36:38,847] 10 root - INFO - Data Ingestion Started
+[2025-02-11 11:36:38,847] 18 root - ERROR - 'TrainingPipelineConfig' object has no attribute 'artifact_dir'

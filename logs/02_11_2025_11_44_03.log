@@ -1,0 +1,7 @@
+[2025-02-11 11:44:03,202] 11 root - INFO - Logging started
+[2025-02-11 11:44:05,031] 10 root - INFO - Data Ingestion Started
+[2025-02-11 11:44:12,119] 53 root - INFO - Data was splitted in to two 
+[2025-02-11 11:44:12,119] 54 root - INFO - Exited split_data_as_train-test method of data ingestion class
+[2025-02-11 11:44:12,119] 57 root - INFO - Exporting the train and test data
+[2025-02-11 11:44:12,214] 60 root - INFO - splitted Data is saved at location 
+[2025-02-11 11:44:12,215] 16 root - INFO - Data Ingested successfully

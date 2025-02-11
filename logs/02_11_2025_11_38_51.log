@@ -1,0 +1,3 @@
+[2025-02-11 11:38:51,707] 11 root - INFO - Logging started
+[2025-02-11 11:38:53,475] 10 root - INFO - Data Ingestion Started
+[2025-02-11 11:39:00,809] 18 root - ERROR - Error occured at script name [D:\Mlops\DS2\src\components\data_ingestion.py] line number [69] error message [Error occured at script name [D:\Mlops\DS2\src\components\data_ingestion.py] line number [52] error message [Input should have at least 1 dimension i.e. satisfy `len(x.shape) > 0`, got scalar `array(0.2)` instead.]]

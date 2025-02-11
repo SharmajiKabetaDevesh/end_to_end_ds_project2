@@ -37,7 +37,7 @@ class DataExtraction():
         try:
             self.database=database
             self.collection=collection
-            self.records=recordsx
+            self.records=records
             self.mongo_client=pymongo.MongoClient(uri)
             self.database=self.mongo_client[self.database]
             self.collection=self.database[self.collection]
