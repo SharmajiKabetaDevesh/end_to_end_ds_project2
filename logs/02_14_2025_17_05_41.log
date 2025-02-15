@@ -1,0 +1,33 @@
+[2025-02-14 17:05:41,069] 11 root - INFO - Logging started
+[2025-02-14 17:05:42,954] 11 root - INFO - Data Ingestion Started
+[2025-02-14 17:05:49,893] 53 root - INFO - Data was splitted in to two 
+[2025-02-14 17:05:49,893] 54 root - INFO - Exited split_data_as_train-test method of data ingestion class
+[2025-02-14 17:05:49,901] 57 root - INFO - Exporting the train and test data
+[2025-02-14 17:05:49,979] 60 root - INFO - splitted Data is saved at location 
+[2025-02-14 17:05:49,980] 16 root - INFO - Data Ingested successfully
+[2025-02-14 17:05:49,980] 17 root - INFO - Data Valiation Started
+[2025-02-14 17:05:50,051] 31 root - INFO - NUmber of columns are2
+[2025-02-14 17:05:50,051] 32 root - INFO - NUmber of columns areIndex(['having_IP_Address', 'URL_Length', 'Shortining_Service',
+       'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix',
+       'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length',
+       'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor',
+       'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL',
+       'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe',
+       'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank',
+       'Google_Index', 'Links_pointing_to_page', 'Statistical_report',
+       'Result'],
+      dtype='object')
+[2025-02-14 17:05:50,051] 31 root - INFO - NUmber of columns are2
+[2025-02-14 17:05:50,051] 32 root - INFO - NUmber of columns areIndex(['having_IP_Address', 'URL_Length', 'Shortining_Service',
+       'having_At_Symbol', 'double_slash_redirecting', 'Prefix_Suffix',
+       'having_Sub_Domain', 'SSLfinal_State', 'Domain_registeration_length',
+       'Favicon', 'port', 'HTTPS_token', 'Request_URL', 'URL_of_Anchor',
+       'Links_in_tags', 'SFH', 'Submitting_to_email', 'Abnormal_URL',
+       'Redirect', 'on_mouseover', 'RightClick', 'popUpWidnow', 'Iframe',
+       'age_of_domain', 'DNSRecord', 'web_traffic', 'Page_Rank',
+       'Google_Index', 'Links_pointing_to_page', 'Statistical_report',
+       'Result'],
+      dtype='object')
+[2025-02-14 17:05:50,259] 23 root - INFO - Data Valiation successfully
+[2025-02-14 17:05:50,259] 25 root - INFO - Data Transformation began
+[2025-02-14 17:05:50,259] 32 root - ERROR - DataTransformation() takes no arguments

@@ -30,3 +30,26 @@ DATA_VALIDATION_DRIFT_REPORT_FILE_NAME="report.yaml"
 
 
 SCHEMA_FILE_PATH=os.path.join("data_schema","schema.yaml")
+
+## Data Tranformation COnstants
+
+DATA_TRANSFORMATION_DIR_NAME="data_transformation"
+DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR="transfomed"
+DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR="transformed_object"
+PREPROCESSING_OBJECT_FILE_NAME="imputerdata.pkl"
+DATA_TRANSFORMATION_IMPUTER_PARAMS:dict={
+    "missing_values":np.nan,
+    "n_neighbors":3,
+    "weights":"uniform"
+}
+
+
+#Model training constants
+MODEL_TRAINER_DIR_NAME="model_training_arcs"
+MODEL_TRAINER_TRAINED_MODEL_DIR="trained_model"
+MODEL_TRAINER_TRAINED_MODEL_NSME="model.pkl"
+MODEL_TRAINER_EXPECTED_SCORE:float=0.7
+MODEL_TRAINER_OVER_FITTING_UNDER_FITTING_THRESHOLD:float=0.05
+
+SAVED_MODEL_DIR=os.path.join("saved_models")
+MODEL_FILE_NAME="model.pkl"
